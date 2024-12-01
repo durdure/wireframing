@@ -99,3 +99,25 @@ Wireframes focus on user experience by prioritizing usability and functionality.
 
 In summary, wireframing is a vital practice in software development that guides the design process, facilitates communication among team members, and ultimately leads to a more user-centric final product.
 
+## Real-World Scenario: Usability Issues Identified Through Wireframing
+
+### Scenario Overview
+In the development of a mobile banking application, the design team utilized wireframing to map out the user interface and user experience. During the wireframing phase, they created low-fidelity prototypes to visualize the layout and functionality of key screens, including the login and account overview pages.
+
+### Identified Usability Issues
+1. **Login Screen Complexity:** The initial wireframe presented a login screen that required users to enter both their username and password on the same page, which was cluttered with additional options like "Forgot Password?" and "Sign Up."
+  
+2. **Account Overview Clarity:** The account overview page displayed multiple account balances and transaction histories in a dense format, making it difficult for users to quickly grasp their financial status.
+
+### Resolution
+To address these issues, the team implemented the following changes:
+
+- **Simplified Login Process:** The login screen was redesigned to present a clean, minimal interface. The "Forgot Password?" and "Sign Up" options were moved to a secondary screen accessible via a clear, unobtrusive link. This streamlined the login process, reducing cognitive load for users.
+
+- **Enhanced Account Overview Layout:** The account overview page was restructured to utilize cards for each account, clearly displaying balances and recent transactions. This visual separation allowed users to quickly scan their accounts and access detailed information with ease.
+
+### Impact on the Final Product
+These adjustments led to significant improvements in usability. User testing conducted after the revisions indicated that users found the login process more intuitive and experienced less frustration when accessing their accounts. The enhanced account overview layout resulted in a more positive user experience, with users reporting increased confidence in managing their finances through the app.
+
+### Conclusion
+This scenario highlights the vital role of wireframing in uncovering potential usability issues before the development phase. By providing a visual framework for the user experience, wireframes enable teams to identify and resolve problems early on, ensuring a user-friendly final product. Wireframing not only aids in effective communication among team members but also emphasizes user needs, leading to designs that enhance usability and overall satisfaction.
